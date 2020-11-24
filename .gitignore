@@ -1,1 +1,4 @@
-/.metadata/
+target/
+.metadata/
+out/
+.DS_Store
