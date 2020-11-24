@@ -8,6 +8,10 @@ import org.junit.Test;
 
 public class TestSystemOutput {
 	
+	//This file is was used to check if the classes stored information correctly 
+	// and was used to create the Test files for each class thereafter
+	
+	
 	Student student1, student2;
 	ArrayList<Student> listOfStudents;
 	DateTime startDate, endDate;
